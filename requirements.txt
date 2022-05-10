@@ -1,0 +1,9 @@
+jupyter-dash
+dash-extensions
+dash_daq
+jupyterlab
+numpy
+pandas
+plotly
+python-environ
+requests
